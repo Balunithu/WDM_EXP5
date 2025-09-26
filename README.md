@@ -1,6 +1,9 @@
 ### EX5 Information Retrieval Using Boolean Model in Python
-### DATE: 
+
+### DATE: 26-09-2025
+
 ### AIM: To implement Information Retrieval Using Boolean Model in Python.
+
 ### Description:
 <div align = "justify">
 The Boolean model in Information Retrieval (IR) is a fundamental model used for searching and retrieving information from a collection of documents. It operates on the principles of set theory and logic, where documents are represented as sets of terms or words, and queries are expressed as Boolean expressions using logical operators such as AND, OR, and NOT.
@@ -90,4 +93,11 @@ if __name__ == "__main__":
 
 ### Output:
 
+<img width="1245" height="323" alt="{9E1179B8-6889-48F8-877E-52A14089FB5E}" src="https://github.com/user-attachments/assets/4f889039-472b-4d20-b000-2c053ac62da3" />
+<img width="1712" height="480" alt="{4633CD90-1648-4811-B08A-BA1D5C3D87AF}" src="https://github.com/user-attachments/assets/e464c037-fb2f-4a95-aadd-b7d4397f5b0f" />
+<img width="1719" height="454" alt="{F8BA20B8-E157-4D8D-9396-A4596999643E}" src="https://github.com/user-attachments/assets/64849f43-1e28-4bd0-bfe7-f461559b6c41" />
+
+
+
 ### Result:
+Thus, the Implementation of Information Retrieval Using Boolean Model in Python has successfully executed.
